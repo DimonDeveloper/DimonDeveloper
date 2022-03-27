@@ -25,7 +25,7 @@
 <br>
 
 ## Participate
-[<img align="left" alt="UnrealReader" src="https://user-images.githubusercontent.com/3527457/160282888-b5abd682-45b5-42d2-9dc2-555c5148ad86.png" width="40"/>](https://www.facebook.com/UnrealReader/)
+[<img align="left" alt="UnrealReader" src="https://user-images.githubusercontent.com/3527457/160282888-b5abd682-45b5-42d2-9dc2-555c5148ad86.png" width="40"/>](https://itunes.apple.com/us/app/unrealreader-pdf-reader-file/id992233509?ls=1&mt=8)
 
 [<img align="left" alt="Atlas Festival" src="https://user-images.githubusercontent.com/3527457/160282886-af43317b-904d-49e0-8071-c8ccc682db05.png" width="40"/>](https://apps.apple.com/ua/app/atlas-weekend/id1249845678)
 
