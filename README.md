@@ -37,3 +37,5 @@
 
 [<img align="left" alt="Hotstar" src="https://user-images.githubusercontent.com/3527457/160282885-f4095478-597b-42d2-8f31-d95282387848.png" width="40"/>](https://apps.apple.com/id/app/disney-hotstar/id1524156685?platform=appleTV)
 
+[<img align="left" alt="dscout" src="https://user-images.githubusercontent.com/3527457/197841008-75bbc7fd-9318-489a-89c4-ccfdf7792489.png" width="40"/>](https://apps.apple.com/us/app/dscout/id395563123)
+
