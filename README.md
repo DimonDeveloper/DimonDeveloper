@@ -25,7 +25,7 @@
 <br>
 
 ## Participate
-[<img align="left" alt="UnrealReader" src="https://user-images.githubusercontent.com/3527457/160282888-b5abd682-45b5-42d2-9dc2-555c5148ad86.png" width="40"/>](https://itunes.apple.com/us/app/unrealreader-pdf-reader-file/id992233509?ls=1&mt=8)
+[<img align="left" alt="UnrealReader" src="https://user-images.githubusercontent.com/3527457/160282888-b5abd682-45b5-42d2-9dc2-555c5148ad86.png" width="40"/>](https://www.facebook.com/UnrealReader)
 
 [<img align="left" alt="Atlas Festival" src="https://user-images.githubusercontent.com/3527457/160282886-af43317b-904d-49e0-8071-c8ccc682db05.png" width="40"/>](https://apps.apple.com/ua/app/atlas-weekend/id1249845678)
 
@@ -38,4 +38,6 @@
 [<img align="left" alt="Hotstar" src="https://user-images.githubusercontent.com/3527457/160282885-f4095478-597b-42d2-8f31-d95282387848.png" width="40"/>](https://apps.apple.com/id/app/disney-hotstar/id1524156685?platform=appleTV)
 
 [<img align="left" alt="dscout" src="https://user-images.githubusercontent.com/3527457/197841008-75bbc7fd-9318-489a-89c4-ccfdf7792489.png" width="40"/>](https://apps.apple.com/us/app/dscout/id395563123)
+
+[<img align="left" alt="dscout" src="https://github.com/DimonDeveloper/DimonDeveloper/assets/3527457/760b0bef-c9ef-4935-9d87-da402fb1c5ab" width="40"/>](https://apps.apple.com/ca/app/cbc-news/id417988800)
 
