@@ -43,4 +43,7 @@
 [<img align="left" alt="CBCNews" src="https://github.com/DimonDeveloper/DimonDeveloper/assets/3527457/760b0bef-c9ef-4935-9d87-da402fb1c5ab" width="45"/>](https://apps.apple.com/ca/app/cbc-news/id417988800)
 [<img align="left" alt="Arsee" src="https://github.com/user-attachments/assets/877d9a9a-7b71-4f30-9b36-53c72a475103" width="45"/>](https://itunes.apple.com/app/id6689493542)
 
+[<img align="left" alt="DudePerfect" src="https://github.com/user-attachments/assets/88657ce6-a93f-4b21-bd5a-70bddb718073" width="45"/>](https://apps.apple.com/ca/app/dude-perfect/id6449199468)
+[<img align="left" alt="Victory+" src="https://github.com/user-attachments/assets/0d26f19f-b175-477b-8f98-a953b0a2dfc6" width="45"/>](https://apps.apple.com/ca/app/victory-watch-live-sports/id6477230809)
+
 
